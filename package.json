@@ -1,0 +1,16 @@
+{
+  "name": "d3-map",
+  "version": "1.0.0",
+  "description": "sandbox for d3 mapping",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run http-server"
+  },
+  "keywords": [
+    "d3",
+    "map"
+  ],
+  "author": "dp",
+  "license": "ISC",
+  "devDependencies": {}
+}
